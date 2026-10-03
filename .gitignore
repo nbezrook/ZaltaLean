@@ -1,0 +1,5 @@
+.lake/
+build/
+*.olean
+refs/isabelle-AOT/
+refs/*.pdf
